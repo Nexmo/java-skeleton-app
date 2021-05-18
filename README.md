@@ -11,10 +11,6 @@ This is a bare-bones skeleton app for using Vonage with Spring Boot, this will t
 * A Nexmo account, [sign up for a new account here](https://dashboard.nexmo.com/sign-up?utm_source=DEV_REL&utm_medium=github&utm_campaign=text-based-whatsapp-callcenter) if you don't have one already
 * **EITHER** a WhatsApp Business number **OR** you can try this app using the [Messages API Sandbox](https://developer.nexmo.com/messages/concepts/messages-api-sandbox) - but only telephone numbers that you whitelist through the dashboard can be used. This makes the sandbox ideal for testing with a controlled group of numbers.
 
-## Manual Heroku Setup
-
-You can deploy this app with the button: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
 ## Getting Help
 
 We love to hear from you so if you have questions, comments or find a bug in the project, let us know! You can either:
